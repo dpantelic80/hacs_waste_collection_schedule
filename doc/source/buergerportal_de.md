@@ -19,11 +19,12 @@ waste_collection_schedule:
 
 ## Supported Operators
 
-- `alb_donau`: <https://buerger-portal-albdonaukreisabfallwirtschaft.azurewebsites.net>
+- `alb_donau`: <https://buerger-portal-albdonaukreisabfallwirtschaft.azurewebsites.net
 - `biedenkopf`: <https://biedenkopfmzv.buergerportal.digital>
 - `cochem_zell`: <https://buerger-portal-cochemzell.azurewebsites.net>
 - `bedburg`: <https://buerger-portal-bedburg.azurewebsites.net>
 - 'klevestadt' : <https://buerger-app-klevestadt.azurewebsites.net>
+-  `alb_donau`: <https://albdonaukreis.buergerportal.digital/objects/40981/calendar>
 
 ### Configuration Variables
 
